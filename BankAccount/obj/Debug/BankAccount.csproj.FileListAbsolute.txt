@@ -1,0 +1,5 @@
+c:\users\pablo\documents\visual studio 2015\Projects\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+c:\users\pablo\documents\visual studio 2015\Projects\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+c:\users\pablo\documents\visual studio 2015\Projects\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+c:\users\pablo\documents\visual studio 2015\Projects\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+c:\users\pablo\documents\visual studio 2015\Projects\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
